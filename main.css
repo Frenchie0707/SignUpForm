@@ -1,1 +1,65 @@
-main.css
+body {
+margin:auto;
+text-align:center;
+background-color:#1A92EF;
+padding: 20px;
+}
+main {
+ width: 350px;
+ background-color: white;
+ font-family: 'Roboto', sans-serif;
+ border: none;
+ border-radius: 3px;
+ margin: 0 auto;
+ padding: 20px;
+}
+h1 {
+  font-size: 35px;
+  color: #454749; 
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 10px;
+}
+.logo { 
+ height: 35px;
+ padding: 25px;
+}
+label {
+  text-align: left;
+  padding-bottom: 18px;
+  padding-top: 18px;
+  display: block;
+  font-size: 18px;
+  font-family: calibri;
+}
+fieldset {
+  border: none;
+}
+input {
+  width: 290px;
+  font-size: 16px;
+  padding: 12px;
+  border: 2px solid lightgray;
+}
+button {
+ background-color: #29E480;
+ height: 55px;
+ width: 320px;
+ font-size: 20px;
+ color: white;
+ border:none;
+ border-radius: 2px;
+ margin-top: 20px;
+}
+button:hover {
+background-color: #0DB85A;
+}
+main p a {
+font-size: 17px;
+color: #B7BABC;
+text-align: center;
+font-family: calibri;
+}
+footer p, a {
+color: white;
+font-family: calibri;
+}
